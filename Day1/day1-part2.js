@@ -28,7 +28,7 @@ function convertToNumbers(text){
         "7": "7",
         "8": "8",
         "9": "9",
-        "0": "0",        
+        "0": "0",
     }
 
     // Keep track of what we matched and where we matched it.
