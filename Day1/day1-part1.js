@@ -1,5 +1,5 @@
-let aoc = require("./aoc");
-let string = require("fs").readFileSync("day1data.txt", 'utf8')
+let aoc = require("../aoc");
+let string = require("fs").readFileSync("./day1/day1data.txt", 'utf8')
 
 let lines = aoc.convertToLines(string);
 
