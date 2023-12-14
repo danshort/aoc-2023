@@ -6,7 +6,7 @@ I solved Day 1 fairly quickly, but it took a lot of the Googling for me to refre
 # Day 2
 The Day 2 challenge took me longer than I'd like because I ended up fighting with breakpoints in VS Code for over half an hour, only for it to turn out it was a problem in in `launch.json`. Do you see the problem?
 
-```
+```JavaScript
 {
     "version": "0.2.0",
     "configurations": [
@@ -25,7 +25,7 @@ The Day 2 challenge took me longer than I'd like because I ended up fighting wit
 
 compared to
 
-```
+```JavaScript
 {
     "version": "0.2.0",
     "configurations": [
