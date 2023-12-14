@@ -2,7 +2,7 @@ let aoc = require("../aoc");
 let string = require("fs").readFileSync("./day1/day1data.txt", 'utf8')
 
 let lines = aoc.convertToLines(string);
-
+console.log("foo");
 let runningTotal = 0;
 for( let i = 0; i < lines.length; i++){
     let currentLine = lines[i];
